@@ -15,7 +15,7 @@
 
 ## 📊 User Stats
 <!-- USER-STAT-LIST:START -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike1705&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike1705&theme=onedark&margin-w=15&margin-h=15&column=7" alt="mike1705" /></a> </p>
 
 <div>
 <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=mike1705&count_private=true&include_all_commits=true&theme=onedark" alt="mike1705" />
