@@ -10,7 +10,7 @@
 
 ---
 
-<h1 align="center">📄 Addition Info</h1>
+<h1 align="center"></h1>
 
 - 🔭 I’m currently working on [Python](https://www.python.org/)
 
