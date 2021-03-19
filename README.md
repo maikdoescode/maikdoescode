@@ -8,10 +8,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike1705&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
----
-
-<h1 align="center"></h1>
-
 - 🔭 I’m currently working on [Python](https://www.python.org/)
 
 <h3 align="left">Connect with me:</h3>
