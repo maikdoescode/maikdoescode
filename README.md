@@ -7,6 +7,9 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike1705&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
+
+<h1 align="center">Addition Info</h1>
+
 - 🔭 I’m currently working on [Python](https://www.python.org/) and [Docker](https://www.docker.com/)
 
 <h3 align="left">Connect with me:</h3>
