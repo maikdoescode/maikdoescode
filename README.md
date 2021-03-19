@@ -1,4 +1,3 @@
----
 
 <h1 align="center">👋 Hi, I'm Mike</h1>
 
@@ -9,6 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike1705&layout=compact&theme=onedark&langs_count=15" />
 </div>
 
+---
 
 <h1 align="center">📄 Addition Info</h1>
 
