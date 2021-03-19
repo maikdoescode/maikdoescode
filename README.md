@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mike1705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mike1705" height="30" width="40" /></a>
-<a href="https://twitter.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mike1705" height="30" width="40" /></a>
+<a href="https://twitter.com/mike.sln" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mike1705" height="30" width="40" /></a>
 <a href="https://codesandbox.com/mike1705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="mike1705" height="30" width="40" /></a>
 <a href="https://instagram.com/mike.chrt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mike1705" height="30" width="40" /></a>
 </p>
