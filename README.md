@@ -1,6 +1,25 @@
 
 <h1 align="center">👋 Hi, I'm Mike</h1>
 
+- 🔭 I’m currently working on [Zig](https://ziglang.org/) and [Elixir](https://elixir-lang.org/)
+
+## Blog posts
+<!-- BLOG-POST-LIST:START -->
+- [Effective Interfaces In Golang](https://dev.to/willdoescode/effective-interfaces-in-golang-3l3n)
+- [How to operator overload in Rust.](https://dev.to/willdoescode/how-to-operator-overload-in-rust-33cp)
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="willdoescode" height="30" width="40" /></a>
+<a href="https://dev.to/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="willdoescode" height="30" width="40" /></a>
+<a href="https://twitter.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="willdoescode" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/will-iam" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="will-iam" height="30" width="40" /></a>
+<a href="https://codesandbox.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="willdoescode" height="30" width="40" /></a>
+<a href="https://instagram.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="willdoescode" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/willdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="willdoescode" height="30" width="40" /></a>
+</p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mike1705&theme=onedark&margin-w=15&margin-h=15&column=7" alt="willdoescode" /></a> </p>
 
 <div>
