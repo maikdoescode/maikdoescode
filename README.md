@@ -10,6 +10,8 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mike1705&label=Profile%20views&color=0e75b6&style=flat" alt="mike1705" /> </p>
 
+- 🔭 I’m currently working on [Python](https://www.python.org/) and [Docker](https://www.docker.com/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/mike1705" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mike1705" height="30" width="40" /></a>
