@@ -45,3 +45,7 @@
 </div>
 <!-- USER-STAT-LIST:END -->
 
+## 🎵 Playlists
+<!-- PLAYLIST-LIST:START -->
+
+<!-- PLAYLIST-LIST:END -->
