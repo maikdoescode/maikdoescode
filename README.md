@@ -2,7 +2,7 @@
 
 <div align=center>
   
-  <a href="https://discord.gg/5qmGXNAY3x">
+  <a href="https://discord.gg/rickroll">
     <img src="https://discordapp.com/api/guilds/791306350977220618/widget.png?style=shield" alt="server">
   </a>
 
