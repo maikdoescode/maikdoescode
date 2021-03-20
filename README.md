@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/endpoint?label=Playing&url=https://dev.discordprofiles.me/api/badge/playing/538751421441507346?vscode=false&logo=bitrise&color=darkgreen&style=flat" alt="now playing, from discord">
   </a>
   
-  <a href="">
-    <img src="" width="30px" alt="support me">
+  <a href="https://ko-fi.com/M4M433D4H">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" width="100px" alt="support me">
   </a>
  
 </div>
