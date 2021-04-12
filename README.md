@@ -25,7 +25,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/maikdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="mike1705" height="30" width="40" /></a>
-<a href="https://instagram.com/mike.chrt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="mike1705" height="30" width="40" /></a>
-<a href="https://open.spotify.com/playlist/3wtde1GIRIb2thZh5Q7aLL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="mike1705" height="30" width="40" /></a>
+<a href="https://dev.to/maikdoescode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="chmike1" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15097802/mike?tab=profile" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/stackoverflow.svg" alt="chmike1" height="30" width="40" /></a>
+<a href="https://instagram.com/mike.chrt" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="chmike1" height="30" width="40" /></a>
+<a href="https://open.spotify.com/playlist/3wtde1GIRIb2thZh5Q7aLL" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="chmike1" height="30" width="40" /></a>
 </p>
