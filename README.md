@@ -16,7 +16,7 @@
 <h1><a href="http://mikedoescode.rf.gd/"><img src="https://media.giphy.com/media/4JtXt9i56Wp6U/giphy.gif" width="30px"></a> ｍｉｋｅ</h1>
  </div>
 
-- 🔭 I’m currently working on [Javascript](https://www.javascript.com/) and [HTML](https://html.com/)
+- 🔭 I’m currently working on [Javascript](https://www.javascript.com/)
 
 ## 📊 User Stats
 <!-- USER-STAT-LIST:START -->
