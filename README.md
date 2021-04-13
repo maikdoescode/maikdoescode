@@ -13,7 +13,7 @@
 </div>
 
 <div align=center>
-<h1><a href="http://mikedoescode.rf.gd/"><img src="https://media.giphy.com/media/4JtXt9i56Wp6U/giphy.gif" width="30px"></a> ｍｉｋｅ</h1>
+<h1><a href="http://chmike.rf.gd/"><img src="https://media.giphy.com/media/4JtXt9i56Wp6U/giphy.gif" width="30px"></a> ｍｉｋｅ</h1>
  </div>
 
 - 🔭 I’m currently working on [Javascript](https://www.javascript.com/)
