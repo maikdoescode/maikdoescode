@@ -7,7 +7,7 @@
   </a>
 
   <a href="https://github.com/maikdoescode">
-    <img src="https://komarev.com/ghpvc/?username=maikdoescode&label=Profile%20views&color=0e75b6&style=flat" alt="maikdoescode">
+    <img src="https://komarev.com/ghpvc/?username=chmike1&label=Profile%20views&color=0e75b6&style=flat" alt="chmike1">
   </a>
  
 </div>
@@ -20,7 +20,7 @@
 
 ## 📊 User Stats
 <!-- USER-STAT-LIST:START -->
-<p align="left"> <a href="https://github.com/maikdoescode"><img src="https://github-profile-trophy.vercel.app/?username=maikdoescode&theme=onedark&margin-w=15&margin-h=15&column=7" alt="mike1705" /></a> </p>
+<p align="left"> <a href="https://github.com/chmike1"><img src="https://github-profile-trophy.vercel.app/?username=chmike1&theme=onedark&margin-w=15&margin-h=15&column=7" alt="chmike1" /></a> </p>
 <!-- USER-STAT-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
