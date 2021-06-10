@@ -2,12 +2,12 @@
 
 <div align=center>
   
-  <a href="https://discord.gg/rickroll">
-    <img src="https://discordapp.com/api/guilds/791306350977220618/widget.png?style=shield" alt="server">
+  <a href="https://discord.gg/prod">
+    <img src="https://discordapp.com/api/guilds/758845151962988544/widget.png?style=shield" alt="server">
   </a>
 
-  <a href="https://github.com/maikdoescode">
-    <img src="https://komarev.com/ghpvc/?username=chmike1&label=Profile%20views&color=0e75b6&style=flat" alt="chmike1">
+  <a href="https://github.com/1cmike">
+    <img src="https://komarev.com/ghpvc/?username=1cmike&label=Profile%20views&color=0e75b6&style=flat" alt="1cmike">
   </a>
  
 </div>
