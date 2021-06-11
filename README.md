@@ -9,6 +9,8 @@
   <a href="https://github.com/1cmike">
     <img src="https://komarev.com/ghpvc/?username=1cmike&label=Profile%20views&color=0e75b6&style=flat" alt="1cmike">
   </a>
+      <a href="https://top.gg/bot/795923050905337878"><img src="https://top.gg/api/widget/status/795923050905337878.svg" alt="SOSSBOI" /></a>
+    <a href="https://top.gg/bot/795923050905337878"><img src="https://top.gg/api/widget/owner/795923050905337878.svg?noavatar=true" alt="SOSSBOI"/></a>
  
 </div>
 
