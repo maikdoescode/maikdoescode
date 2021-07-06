@@ -3,7 +3,7 @@
 <div align=center>
   
   <a href="https://discord.gg/prod">
-    <img src="https://discordapp.com/api/guilds/758845151962988544/widget.png?style=shield" alt="server">
+    <img src="https://discordapp.com/api/guilds/791306350977220618/widget.png?style=shield" alt="server">
   </a>
 
   <a href="https://github.com/1cmike">
